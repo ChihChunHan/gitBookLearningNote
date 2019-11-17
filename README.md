@@ -1,2 +1,2 @@
-# gitBookLearningNote
-my Front-End Develop studying note
+# Initial page
+
